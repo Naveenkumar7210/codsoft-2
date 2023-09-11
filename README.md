@@ -1,2 +1,2 @@
 # codsoft-2
-restaurant menu , food delivery app , ui/ux internship , @codsoft
+E-commerce website design , ui/ux internship , @codsoft
